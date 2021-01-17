@@ -7,6 +7,6 @@
 
 <div>
   <p>成果示意圖：</p>
-  <p>![image](https://github.com/willy010074/HRNet/blob/master/result.png)</p>
+  <p><img src=https://github.com/willy010074/HRNet/blob/master/result.png></p>
   <p>上圖為原始影像，下圖為產生的深度資訊影像，冷色系為近，暖色系為遠。</p>
 </div>
