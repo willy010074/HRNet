@@ -10,3 +10,5 @@
   <p><img src=https://github.com/willy010074/HRNet/blob/master/result.png></p>
   <p>上圖為原始影像，下圖為產生的深度資訊影像，冷色系為近，暖色系為遠。</p>
 </div>
+
+詳細介紹：https://hackmd.io/@willy010074/HJ2IhRbyO
